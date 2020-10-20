@@ -1,0 +1,61 @@
+body
+		{
+			font-size: 50px;
+			font-weight: bold;
+			font-family: monospace; 
+		}
+
+.zag
+{
+	position: fixed;
+	text-align: center;
+	background-color: green;
+	width: 100%;
+	height: 80px;
+	padding-top: 5px;
+}
+.frog4
+{
+	position: static;
+	float: left;
+	width: 570px;
+
+}
+.frog2
+{
+	height: 400px;
+	position: relative;
+	top: 100px;
+	left: 30px;
+}
+.frog5
+{
+	position: absolute;
+	width: 500px;
+	right: 1px;
+	top: 100px;
+}
+.frog6
+{
+	position: absolute;
+	height: 400px;
+	left: 100px;
+	top: 550px;
+
+
+}
+.frog3
+{
+	width: 400px;
+	position: relative;
+	left: 30px;
+	top: 130px;
+}
+.frog1
+{
+	height: 400px;
+	position: absolute;
+	right: 20px;
+	top: 550px;
+
+}
